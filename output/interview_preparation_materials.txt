@@ -1,0 +1,22 @@
+Interview Questions and Talking Points for Yiran Zhao:
+
+1. Can you walk us through your experience as a Principal Data Scientist at Fidelity Investment, highlighting some of the key projects you worked on and the impact they had on the business?
+2. How have you utilized machine learning models and optimization techniques in your previous role to deliver personalized experiences and recommendations to customers?
+3. Can you provide an example of a challenging business problem you solved using ensemble search, prompt engineering, Retrieval-Augmented Generation (RAG), and NLP practices?
+4. How has your education in Artificial Intelligence, Statistics, and Mathematical Statistics contributed to your expertise in statistical analysis, machine learning, and deep learning?
+5. Which specific technical skills in Python, SQL, LangChain, AWS, PyTorch, TensorFlow, and others have you found most valuable in implementing cutting-edge AI technologies?
+6. How do you approach project management, data integration, and cleansing to effectively tackle complex business challenges and drive innovation?
+7. How do you stay updated on the latest trends and advancements in the field of data science, and how do you incorporate them into your work?
+8. How do you ensure the ethical use of data and AI technologies in your projects, considering privacy and security concerns?
+9. In what ways do you see your skills and experiences aligning with the job requirements at [Company Name], and how do you plan to contribute to the team's success?
+10. Can you discuss a time when you faced a significant challenge in a project and how you overcame it, showcasing your problem-solving skills and resilience?
+
+Talking Points:
+- Highlight the impact of developing advanced machine learning models and optimization techniques at Fidelity Investment.
+- Showcase expertise in ensemble search, prompt engineering, RAG, and NLP practices in content inventory and generation products.
+- Emphasize the importance of education in AI, Statistics, and Mathematical Statistics in building a strong foundation for data science.
+- Discuss the significance of technical skills in Python, SQL, LangChain, AWS, PyTorch, TensorFlow, and others in implementing cutting-edge AI technologies.
+- Illustrate the approach to project management, data integration, and cleansing in tackling complex business challenges and driving innovation.
+- Demonstrate continuous learning and staying updated on industry trends and advancements in data science.
+
+By preparing for these questions and talking points, Yiran Zhao can effectively highlight the main points of the resume and demonstrate how her experiences and skills align with the job posting at [Company Name].

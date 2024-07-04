@@ -1,0 +1,40 @@
+- AI music makers Suno and Udio were sued for copyright infringement by large music labels, sparking a debate on the fairness of using AI software.
+- There are differing views on AI, with some seeing it as a tool that humans can direct and others seeing it as a separate species with its own goals.
+- The question of whether AI should be allowed to replicate copyrighted work is complex, with comparisons to cloud distribution of content made.
+- The inputs and outputs of humans and software systems differ, leading to discussions on what tasks AI should be allowed to automate.
+- The scale of actions, such as carbon emissions, can change the nature of an act when considering AI automation.
+- The value of AI lies in its ability to automate repetitive tasks and create value, but safeguards should be in place to prevent harm to society. 
+- The author advocates for empowering individuals to use AI tools for automation, while being cautious in exceptional circumstances where harm may outweigh benefits.
+- Coding agents are becoming more useful and efficient in generating code and testing
+- Multi-agent systems are showing better performance in code generation and testing
+- LDB method helps LLMs step through code and identify errors
+- Special-purpose tools for agents improve performance in navigating and editing codebases
+- Coding agents progress is evaluated through benchmarks like HumanEval, MBPP, and SWE-bench
+- Github Copilot and other coding agents are changing the landscape of programming and making it more enjoyable and productive
+- Machine learning has embraced a wide range of algorithms, even those used in the early 1800s by mathematicians Legendre and Gauss.
+- Machine learning has grown more in computer science departments compared to statistics departments due to a more welcoming attitude towards different algorithms.
+- There is a growing movement towards building agentic systems that use design patterns such as reflection, tool use, planning, and multi-agent collaboration.
+- The concept of "agentic" allows for systems to be considered as agent-like to different degrees, promoting inclusivity in the field.
+- There is a gray zone between what is clearly not an agent and what is an autonomous agent, with different degrees of agentic systems being recognized.
+- Encouraging newcomers to start with simple agentic workflows and iterate towards more sophisticated systems is essential.
+- The term "agentic" is mainly used by technical people, indicating a deeper understanding of the technology behind such systems.
+- There is a call to keep working on agentic systems and welcome anyone interested in joining the field.
+- The effort to protect innovation and open source in AI development continues
+- Concerns about California's proposed law SB-1047, which may stifle AI model builders, especially open source developers
+- Emphasis on regulating AI applications rather than technology itself
+- Safety is a property of applications, not technologies or models
+- Challenges in ensuring AI models cannot be adapted to harmful uses, even with known defenses
+- Criticism of SB-1047 for not accounting for the distinction between technologies and applications
+- Highlight of innovative work on jailbreaking attacks on AI models
+- Concern about the potential impact of SB-1047 on AI innovation in California and beyond
+- Call to action to speak out against SB-1047 if given the opportunity
+- Emphasis on the importance of continuous learning in the field of AI
+- Evaluations (evals) are a barrier to faster progress in generative AI, especially in custom AI applications that generate free-form text.
+- Standardized tests like MMLU and HumanEval are used for evaluating general-purpose foundation models such as large language models (LLMs).
+- Evaluation tools like LMSYS Chatbot Arena and HELM are valuable for comparing different models' relative performance, but they have limitations.
+- Evaluating applications built using LLMs is more challenging, especially for applications that generate free-text output with no single right response.
+- Creating test sets with labeled examples is a bottleneck for evaluating applications that require right-or-wrong responses.
+- Many teams use advanced language models to evaluate free-text outputs based on predefined scoring criteria, but the results can be noisy.
+- The cost of running evaluations can be significant, both in terms of dollar cost and time cost.
+- Fast and inexpensive token generation is crucial for efficient evaluation of AI algorithms.
+- Despite current limitations, there is optimism that better evaluation techniques will be developed, potentially involving agentic workflows for LLM evaluation.

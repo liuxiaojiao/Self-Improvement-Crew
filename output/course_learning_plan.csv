@@ -1,0 +1,34 @@
+Title,Category,URL,Level,Length,Instructor,Highlights,Content,Syllabus,Audience,Skills,Plan
+Multi AI Agent Systems with crewAI,Short Course,https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/,Beginner,1 Hour,Joo Moura,"Exceed the performance of prompting a single LLM by designing and prompting a team of AI agents through natural language. Use an open source library, crewAI, to automate repeatable, multi-step tasks like tailoring a resume to a job description; and automate business processes that are typically done by a group of people, like event planning. By creating a team of AI agents, you can define a specific role, goal, and backstory for each agent, which breaks down complex multi-step tasks and assigns them to agents that are customized to perform those tasks.","Learn key principles of designing effective AI agents, and organizing a team of AI agents to perform complex, multi-step tasks. Apply these concepts to automate 6 common business processes. Role-playing: Assign specialized roles to agents. Memory: Provide agents with short-term, long-term, and shared memory. Tools: Assign pre-built and custom tools to each agent (e.g. for web search). Focus: Break down the tasks, goals, and tools and assign to multiple AI agents for better performance. Guardrails: Effectively handle errors, hallucinations, and infinite loops. Cooperation: Perform tasks in series, in parallel, and hierarchically. Throughout the course, youÕll work with crewAI, an open source library designed for building multi-agent systems. YouÕll learn to build agent crews that execute common business processes, such as: Tailor resumes and interview prep for job applications. Research, write and edit technical articles. Automate customer support inquiries. Conduct customer outreach campaigns. Plan and execute events. Perform financial analysis. By the end of the course, you will have designed several multi-agent systems to assist you in common business processes, and also studied the key principles of AI agent systems.",,"If youÕve taken some prompt engineering courses, have some familiarity with basic coding, and want to incorporate LLMs in your professional init our professional work, then this course is designed for you!","Designing effective AI agents, Organizing a team of AI agents, Automation of business processes, Role-playing, Memory management, Tool assignment, Task breakdown, Error handling, Cooperation strategies","- Day 1: 
+  - Watch the introductory video by João Moura on Multi AI Agent Systems with crewAI (1 hour)
+- Day 2: 
+  - Dive into the key principles of designing effective AI agents in the course content (1 hour)
+  - Complete the first module on exceeding the performance of prompting a single AI agent (1 hour)
+- Day 3: 
+  - Learn about organizing a team of AI agents in the second module (1 hour)
+  - Practice designing effective AI agents as per the skills outlined in the syllabus (1 hour)
+- Day 4:
+  - Review and reinforce understanding of designing effective AI agents (1 hour)
+  - Engage in hands-on practice sessions to apply agentic workflow to solve business problems (1 hour)"
+AI Agentic Design Patterns with AutoGen,Short Course,https://www.deeplearning.ai/short-courses/ai-agentic-design-patterns-with-autogen/,Beginner,1 Hour,"Chi Wang, Qingyun Wu","Use the AutoGen framework to build multi-agent systems with diverse roles and capabilities for implementing complex AI applications. Implement agentic design patterns: Reflection, Tool use, Planning, and Multi-agent collaboration using AutoGen.","In AI Agentic Design Patterns with AutoGen youÕll learn how to build and customize multi-agent systems, enabling agents to take on different roles and collaborate to accomplish complex tasks using AutoGen, a framework that enables development of LLM applications using multi-agents. In this course youÕll create: A two-agent chat that shows a conversation between two standup comedians, using ÒConversableAgent,Ó a built-in agent class of AutoGen for constructing multi-agent conversations. 
+A sequence of chats between agents to provide a fun customer onboarding experience for a product, using the multi-agent collaboration design pattern.
+A high-quality blog post by using the agent reflection framework. YouÕll use the Ònested chatÓ structure to develop a system where reviewer agents, nested within a critic agent, reflect on the blog post written by another agent.
+A conversational chess game where two agent players can call a tool and make legal moves on the chessboard, by implementing the tool use design pattern.
+A coding agent capable of generating the necessary code to plot stock gains for financial analysis. This agent can also integrate user-defined functions into the code.
+Agents with coding capabilities to complete a financial analysis task. YouÕll create two systems where agents collaborate and seek human feedback. The first system will generate code from scratch using an LLM, and the second will use user-provided code.
+You can use the AutoGen framework with any model via API call or locally within your own environment. By the end of the course, youÕll have hands-on experience with AutoGenÕs core components and a solid understanding of agentic design patterns. YouÕll be ready to effectively implement multi-agent systems in your workflows.",,"If you have basic Python coding experience and youÕre interested in automating complex workflows using AI agents, this course will provide the practical skills and knowledge you need to leverage AutoGen effectively.","AutoGen, Multi-agent systems, ConversableAgent, Nested chat, Tool use, Planning, Multi-agent collaboration","- Day 1: 
+  - Watch Introduction and Overview video (15 minutes)
+  - Read Module 1: Understanding AutoGen Framework (30 minutes)
+  - Complete Exercise 1: Implementing AutoGen in Python (15 minutes)
+- Day 2: 
+  - Watch Module 2: Building Multi-agent Systems (20 minutes)
+  - Complete Exercise 2: Creating Multi-agent Environments (20 minutes)
+- Day 3: 
+  - Watch Module 3: Implementing ConversableAgent (20 minutes)
+  - Complete Exercise 3: Designing Conversable Agents (20 minutes)
+- Day 4: 
+  - Watch Module 4: Applying Agentic Workflow in Business (20 minutes)
+  - Complete Exercise 4: Solving Business Problems with AutoGen (20 minutes)
+- Day 5: 
+  - Review all modules and exercises (30 minutes)
+  - Take the Quiz to test understanding (15 minutes)"
