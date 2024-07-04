@@ -1,0 +1,2 @@
+user_id,first_name,last_name,gender,position,industry,email,motivation,current_skill_level,goal,skills_to_learn,schedule_hours,practice_area,personal_notes
+101,Diana,Liu,female,Data Scientist,Financial Service,lxjiao0805@gmail.com,career advancement,Beginner,improve current job performance in Data Science and Deep learning,"LangChain, LangGraph, Python, LLM",5 hours a week,"Chatbot, Agent, prompt engineer, RAG ",IÕd like to improve understanding and implementation of agentic workflow
